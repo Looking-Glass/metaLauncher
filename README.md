@@ -12,3 +12,6 @@ This is the launcher launcher.  It is the meat that actually runs the Unity laun
 
 5) Double click RUN
 
+
+NOTE: for best results on Windows, place the metaLauncher in the same directory as the Unity Launcher
+
