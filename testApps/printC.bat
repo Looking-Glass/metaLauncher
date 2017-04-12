@@ -1,0 +1,5 @@
+:loop
+
+echo CCCCCCCCCCCCCCCCCCCCCCCCCC
+
+goto loop
